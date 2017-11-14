@@ -1,0 +1,27 @@
+{
+  "name": "sandbox-ui",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.1.0",
+    "react-dom": "^16.1.0",
+    "react-scripts": "1.0.17"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/sandbox-training/sandbox-ui.git"
+  },
+  "keywords": [],
+  "author": "Thomas Sloboda <thomas@sloboda.fr>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/sandbox-training/sandbox-ui/issues"
+  },
+  "homepage": "https://gitlab.com/sandbox-training/sandbox-ui#readme.md"
+}
